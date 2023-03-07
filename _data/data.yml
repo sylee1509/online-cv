@@ -113,7 +113,6 @@ projects:
 oss:
     title: Patents & Software Program
     intro: >
-      You can list your open source software contributions in this
 
     contributions:
       - title: (Patent) Method of Optimal Planning of Hydrogen Supply Chain Network with Additional On-site Hydrogen Refueling Stations 
