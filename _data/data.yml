@@ -66,13 +66,10 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-
+      - As an M.S./Ph.D. integrated student in Industrial & Management Engineering at POSTECH, my research interests lie in combinatorial optimization, specifically in vehicle routing problems, logistics, facility location, and machine scheduling.
+      - To support my work, I utilize methodologies such as integer programming, (meta) heuristics, and hybridization with artificial intelligence.
+      - Collaboration with good research partners is always welcome, so feel free to reach out to me. :)
+      
 education:
     title: Education
     info:
@@ -113,9 +110,9 @@ experiences:
         details: |
           Developed back-end web service and managed server for web application firewall.
           
-      - role: Transportation Networks
+      - role: MIT Professional Education Short Programs
         time: August 3-7, 2020
-        company: MIT Professional Education Short Programs
+        company: Transportation Networks and Smart Mobility: Methods and Solutions
                 
       - role: Teaching Assistant
         time: Spring 2020 
