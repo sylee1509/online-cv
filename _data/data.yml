@@ -173,10 +173,11 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Optimization of hydrogen refueling stations deployment and supply chain networks: current status and research suggestions
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: H. Ryu, B. Kim*, M. Song, H. Kim, D. Lee, S. Lee, J. Shin, Y.-D. Yoo, S. K., H. Lee
+        journal: Journal of the Korean Institute of Industrial Engineers, 48(2), 211-226
+        year: April, 2022
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
