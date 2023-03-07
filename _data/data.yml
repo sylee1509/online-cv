@@ -181,10 +181,10 @@ publications:
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Optimization of hydrogen refueling stations deployment and supply chain networks: current status and research suggestions"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: H. Ryu, B. Kim*, M. Song, H. Kim, D. Lee, S. Lee, J. Shin, Y.-D. Yoo, S. K., H. Lee
+        conference: "Journal of the Korean Institute of Industrial Engineers, 48(2), 211-226. (April, 2022)"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
