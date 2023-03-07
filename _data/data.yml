@@ -176,20 +176,40 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "A Hybridization of DNN-based Meta Model and Tabu Search for Single Intersection Traffic Signal Optimization"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: S. Lee, Y. Shin, B.Kim, D. Choi
+        conference: "2022 INFORMS Annual Meeting (Indiana Convention Center, Indiana, USA). (Oct 16-19, 2022)"
+
+      - title: "Metaheuristic placement algorithm of 3D blocks with arbitrary shapes for shipbuilding industry"
+        link: "#"
+        authors: S. Lee, B. Kim, Y. Kim, S. Seong
+        conference: "2022 KIIE/KORMS Spring Joint Conference (Jeju, Korea). (June 1-4, 2022)"
+        
+      - title: "Decision support system (DSS) for optimization of hydrogen refueling stations deployment and supply chain networks"
+        link: "#"
+        authors: D. Lee, H. Ryu, J. Shin, S. Lee, H. Kim, B. Kim, M. Song, Y. Yu, S. Kim, H. Lee
+        conference: "2022 KIIE/KORMS Spring Joint Conference (Jeju, Korea). (June 1-4, 2022)"
 
       - title: "Optimization of hydrogen refueling stations deployment and supply chain networks: current status and research suggestions"
         link: "#"
         authors: H. Ryu, B. Kim*, M. Song, H. Kim, D. Lee, S. Lee, J. Shin, Y.-D. Yoo, S. K., H. Lee
         conference: "Journal of the Korean Institute of Industrial Engineers, 48(2), 211-226. (April, 2022)"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Hydrogen refueling stations deployment plan for hydrogen mobility"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: H.Kim, H. Ryu, M. Eom, J. Shin, S. Lee, D. Lee, B. Kim, M. Song, Y. Yu, S. Kim, H. Lee
+        conference: "2021 KIIE/KORMS Joint Conference (jeju). (June 2-4, 2021)"
+
+      - title: "Intelligent Intersection Traffic Signal Control Research 2: Reinforcement Learning based Optimization Approach"
+        link: "#"
+        authors: H. Park, S. Lee, H. Ko, Y. Shin, D. Choi, B. Kim, D. Kim
+        conference: "2020 Fall Conference of KIIE(Seoul National University of Science & Technology, Seoul). (Nov 13, 2020)"
+
+      - title: "Intelligent Intersection Traffic Signal Control Research 1: Simulation, Metaheuristic, and Deep Neural Network based Optimization Approach"
+        link: "#"
+        authors: S. Lee, Y. Shin, M. Eom, H. Ko, H. Park, B. Kim, D. Choi, D. Kim
+        conference: "2020 Fall Conference of KIIE(Seoul National University of Science & Technology, Seoul). (Nov 13, 2020)"
 
 skills:
     title: Skills &amp; Proficiency
