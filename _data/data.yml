@@ -66,9 +66,9 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      - As an M.S./Ph.D. integrated student in Industrial & Management Engineering at POSTECH, my research interests lie in combinatorial optimization, specifically in vehicle routing problems, logistics, facility location, and machine scheduling.
-      - To support my work, I utilize methodologies such as integer programming, (meta) heuristics, and hybridization with artificial intelligence.
-      - Collaboration with good research partners is always welcome, so feel free to reach out to me. :)
+      As an M.S./Ph.D. integrated student in Industrial & Management Engineering at POSTECH, my research interests lie in combinatorial optimization, specifically in vehicle routing problems, logistics, facility location, and machine scheduling.
+      To support my work, I utilize methodologies such as integer programming, (meta) heuristics, and hybridization with artificial intelligence.
+      Collaboration with good research partners is always welcome, so feel free to reach out to me. :)
       
 education:
     title: Education
