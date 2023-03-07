@@ -81,39 +81,6 @@ education:
         university: POSTECH
         time: 2015 - 2020
 
-experiences:
-    title: Experiences
-    info:
-      - role: Application Developer (Internship)
-        time: July 2016 - August 2016
-        company: Exem, Pohang
-        details: |
-          Developed big data operation, management and analysis integrated platform Flamingo.
-      
-      - role: Backend Developer (Internship)
-        time: January 2018 - June 2018
-        company: Penta Security, Seoul
-        details: |
-          Developed back-end web service and managed server for web application firewall.
-
-      - role: Research Intern
-        time: Jan 2019 - Dec 2019
-        company: Logistics Laboratory, POSTECH
-        details: |
-          Researched on optimal traffic signal timing of single intersection based on simulation and developed decision support system <a href="logistics.postech.ac.kr/site">SITE</a>.
-
-      - role: MIT Professional Education Short Programs
-        time: August 3-7, 2020
-        company: Transportation Networks and Smart Mobility - Methods and Solutions (Live virtual)
-                
-      - role: Teaching Assistant
-        time: Spring 2020 
-        company: Discrete Optimization
-      
-      - role: Teaching Assistant
-        time: Fall 2022
-        company: Information System Technology
-
 projects:
     title: Projects
     intro: >
@@ -157,6 +124,40 @@ oss:
       - title: (Software Program) Decision Support System for Hydrogen Supply Chain Management 
         link: "#"
         tagline: "No: C-2022-052519 (2022.12.12)"
+
+
+experiences:
+    title: Experiences
+    info:
+      - role: Application Developer (Internship)
+        time: July 2016 - August 2016
+        company: Exem, Pohang
+        details: |
+          Developed big data operation, management and analysis integrated platform Flamingo.
+      
+      - role: Backend Developer (Internship)
+        time: January 2018 - June 2018
+        company: Penta Security, Seoul
+        details: |
+          Developed back-end web service and managed server for web application firewall.
+
+      - role: Research Intern
+        time: Jan 2019 - Dec 2019
+        company: Logistics Laboratory, POSTECH
+        details: |
+          Researched on optimal traffic signal timing of single intersection based on simulation and developed decision support system <a href="logistics.postech.ac.kr/site">SITE</a>.
+
+      - role: MIT Professional Education Short Programs
+        time: August 3-7, 2020
+        company: Transportation Networks and Smart Mobility - Methods and Solutions (Live virtual)
+                
+      - role: Teaching Assistant
+        time: Spring 2020 
+        company: Discrete Optimization
+      
+      - role: Teaching Assistant
+        time: Fall 2022
+        company: Information System Technology
 
 
 
