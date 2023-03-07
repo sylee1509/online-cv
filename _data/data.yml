@@ -84,7 +84,6 @@ education:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this section. 
     assignments:
       - title: Develop World-best AIM(AI+Matheuristics) based Routing Algorithms for Very Large Scale Waste Collection Problems
         link: "#"
@@ -164,9 +163,6 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: "A Hybridization of DNN-based Meta Model and Tabu Search for Single Intersection Traffic Signal Optimization"
         link: "#"
