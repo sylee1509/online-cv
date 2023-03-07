@@ -67,7 +67,7 @@ career-profile:
     title: Profile
     summary: |
       I am an integrated M.S./Ph.D. student in Industrial & Management Engineering at POSTECH with a focus on combinatorial optimization, including vehicle routing problems, logistics, facility location, and machine scheduling. 
-      To facilitate my research, I employ various methodologies, including but not limited to integer programming, (meta)heuristics, and hybridization with artificial intelligence.
+      To facilitate my research, I employ various methodologies, including but not limited to integer programming, (meta) heuristics, and hybridization with artificial intelligence.
       I am open to collaborating with good research partners, so please don't hesitate to contact me. :)
       
 education:
@@ -95,7 +95,13 @@ experiences:
         company: Penta Security, Seoul
         details: |
           Developed back-end web service and managed server for web application firewall.
-          
+
+      - role: Research Intern
+        time: Jan 2019 - Dec 2019
+        company: Logistics Laboratory, POSTECH
+        details: |
+          Researched on optimal traffic signal timing of single intersection based on simulation and developed decision support system [SITE](logistics.postech.ac.kr/site).
+
       - role: MIT Professional Education Short Programs
         time: August 3-7, 2020
         company: Transportation Networks and Smart Mobility - Methods and Solutions (Live virtual)
