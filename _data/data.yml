@@ -16,7 +16,7 @@ sidebar:
     phone: 010 8181 6283
     timezone: South Korea/Seoul Timezone
     citizenship:
-    website: 
+    website: http://plogistics.postech.ac.kr/
     linkedin: sylee1509
     xing: 
     github: sylee1509
@@ -28,6 +28,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
+    
 
     languages:
       title: Languages
@@ -147,7 +148,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: Patents
+    title: Patents & Software
     intro: >
       You can list your open source software contributions in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
