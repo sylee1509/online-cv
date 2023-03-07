@@ -66,9 +66,9 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      As an M.S./Ph.D. integrated student in Industrial & Management Engineering at POSTECH, my research interests lie in combinatorial optimization, specifically in vehicle routing problems, logistics, facility location, and machine scheduling.
-      To support my work, I utilize methodologies such as integer programming, (meta) heuristics, and hybridization with artificial intelligence.
-      Collaboration with good research partners is always welcome, so feel free to reach out to me. :)
+      I am an integrated M.S./Ph.D. student in Industrial & Management Engineering at POSTECH with a focus on combinatorial optimization, including vehicle routing problems, logistics, facility location, and machine scheduling. 
+      To facilitate my research, I employ various methodologies, including but not limited to integer programming, (meta)heuristics, and hybridization with artificial intelligence.
+      I am open to collaborating with good research partners, so please don't hesitate to contact me. :)
       
 education:
     title: Education
@@ -76,25 +76,11 @@ education:
       - degree: M.S./Ph.D. integrated student in Industrial & Management Engineering
         university: POSTECH
         time: 2020 - Present
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
       - degree: B.S. in Mathematics
         university: POSTECH
         time: 2015 - 2020
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 experiences:
     title: Experiences
     info:
@@ -127,25 +113,30 @@ projects:
     intro: >
       You can list your side projects in this section. 
     assignments:
-      - title: Velocity
+      - title: Develop World-best AIM(AI+Matheuristics) based Routing Algorithms for Very Large Scale Waste Collection Problems
+        link: "#"
+        tagline: "National Research Foundation of Korea (NRF). (2022 - Present)"
+
+      - title: Development of an optimal hydrogen supply chain model for hydrogen production facilities and refueling stations
+        link: "#"
+        tagline: "KETEP. (2020 - 2022)"
+
+      - title: Development of Intelligent Traffic Signal Control Algorithm for Multi Intersections
+        link: "#"
+        tagline: "ETRI. (2021 - 2021)"
+        
+      - title: Development of Intelligent Traffic Signal Control Algorithm
+        link: "#"
+        tagline: "ETRI. (2020 - 2020)"
+
+      - title: Development of spatial arrangement algorithm of arbitrary 2D polygon and 3D block shape
+        link: "#"
+        tagline: "Korea Shipbuilding & Offshore Engineering Co. (2020 - 2021)"
+        
+      - title: Traffic Signal Optimization and Autonomous Vehicle Traffic Control for Smart Intersection 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "National Research Foundation of Korea (NRF). (2019 - 2022)"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: Patents & Software Program
