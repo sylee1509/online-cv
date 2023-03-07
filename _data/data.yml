@@ -16,7 +16,7 @@ sidebar:
     phone: 010 8181 6283
     timezone: South Korea/Seoul Timezone
     citizenship:
-    website: http://plogistics.postech.ac.kr/
+    website: https://plogistics.postech.ac.kr/
     linkedin: sylee1509
     xing: 
     github: sylee1509
@@ -64,14 +64,12 @@ sidebar:
           link:
           
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        As an M.S./Ph.D. integrated student in Industrial & Management Engineering at POSTECH, my research interests lie in combinatorial optimization, specifically in vehicle routing problems, logistics, facility location, and machine scheduling.
+        To support my work, I utilize methodologies such as integer programming, (meta) heuristics, and hybridization with artificial intelligence.
+        Collaboration with good research partners is always welcome, so feel free to reach out to me. :)
+      
 education:
     title: Education
     info:
@@ -112,6 +110,10 @@ experiences:
         details: |
           Developed back-end web service and managed server for web application firewall.
 
+      - role: Transportation Networks and Smart Mobility: Methods and Solutions
+        time: August 3-7, 2020
+        company: MIT Professional Education Short Programs
+
       - role: Teaching Assistant
         time: 2020 Spring
         company: Discrete Optimization
@@ -151,15 +153,13 @@ oss:
       You can list your open source software contributions in this
 
     contributions:
-      - title: Method of Optimal Planning of Hydrogen Supply Chain Network with Additional On-site Hydrogen Refueling Stations (Patent)
+      - title: (Patent) Method of Optimal Planning of Hydrogen Supply Chain Network with Additional On-site Hydrogen Refueling Stations 
         link: "#"
         tagline: "No: 10-2022-0125367 (2022.09.30)"
 
-      - title: Decision Support System for Hydrogen Supply Chain Management (Software Program)
+      - title: (Software Program) Decision Support System for Hydrogen Supply Chain Management 
         link: "#"
         tagline: "No: C-2022-052519 (2022.12.12)"
-
-
 
 
 
