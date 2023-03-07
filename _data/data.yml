@@ -123,9 +123,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      You can list your side projects in this section. 
     assignments:
       - title: Velocity
         link: "#hook"
@@ -148,23 +146,19 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: Patents & Software
+    title: Patents & Software Program
     intro: >
       You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     contributions:
-      - title: Tempo
+      - title: Method of Optimal Planning of Hydrogen Supply Chain Network with Additional On-site Hydrogen Refueling Stations (Patent)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "No: 10-2022-0125367 (2022.09.30)"
 
-      - title: Atom
+      - title: Decision Support System for Hydrogen Supply Chain Management (Software Program)
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "No: C-2022-052519 (2022.12.12)"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 
