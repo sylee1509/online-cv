@@ -41,6 +41,18 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: Combinatorial Optimization
+          link:
+
+        - item: Vehicle Routing Problems
+          link:
+
+        - item: Simulation Optimization
+          link:
+          
+        - item: Artificial Intelligence
+          link: 
+          
         - item: Judo
           link:
 
@@ -62,7 +74,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Ph.D. in Industrial & Management Engineering
+      - degree: M.S./Ph.D. integrated student in Industrial & Management Engineering
         university: POSTECH
         time: 2020 - Present
         details: |
@@ -92,37 +104,21 @@ experiences:
         company: Exem, Pohang
         details: |
           Developed big data operation, management and analysis integrated platform Flamingo.
-            - Bullet point
-            - Bullet point
+
       - role: Backend Developer (Internship)
         time: January 2018 - June 2018
         company: Penta Security, Seoul
         details: |
           Developed back-end web service and managed server for web application firewall.
-            - Bullet point
-            - Bullet point
+
       - role: Teaching Assistant
         time: 2020 Spring
         company: Discrete Optimization
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
       - role: Teaching Assistant
         time: 2022 Fall
         company: Information System Technology
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 projects:
     title: Projects
     intro: >
