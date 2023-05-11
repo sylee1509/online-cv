@@ -140,10 +140,16 @@ experiences:
           Developed back-end web service and managed server for web application firewall.
 
       - role: Research Intern
-        time: Jan 2019 - Dec 2019
+        time: January 2019 - December 2019
         company: Logistics Laboratory, POSTECH
         details: |
           Researched on optimal traffic signal timing of single intersection based on simulation and developed decision support system <a href="http://logistics.postech.ac.kr/site">SITE</a>.
+
+      - role: Session Chair
+        time: November 13, 2020
+        company: 2020 Fall Conference of KIIE(Seoul National University of Science & Technology, Seoul)
+        details: |
+          Managed a session 'The 4th Industrial Revolution/Industrial AI (6)'.
 
       - role: MIT Professional Education Short Programs
         time: August 3-7, 2020
