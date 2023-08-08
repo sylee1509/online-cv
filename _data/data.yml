@@ -168,51 +168,51 @@ publications:
         conference: "(Working Paper, International Journal of Hydrogen Energy under 1st revision)"
 
       - title: "A Simulation Optimization Framework for Traffic Signal Control Problem Using a DNN-based Metamodel"
-        authors: S. Lee, Y. Shin, D. Choi*, B. Kim
+        authors: <b style="color:black">S. Lee</b>, Y. Shin, D. Choi*, B. Kim
         conference: "(Working Paper, IEEE Transactions on Intelligent Transportation Systems submitted)"
 
       - title: "Two-Stage Algorithm for Traffic Signal Optimization and Web Service Ssytem Development"
-        authors: S. Lee, M. Eom, B. Kim*
+        authors: <b style="color:black">S. Lee</b>, M. Eom, B. Kim*
         conference: "(Working Paper, Journal of Intelligent Transportation Systems submitted)"
         
       - title: "A web-based decision support system (DSS) for hydrogen refueling station location and supply chain optimization"
         link: "https://doi.org/10.1016/j.ijhydene.2023.06.064"
-        authors: H. Ryu, D. Lee, J. Shin, M. Song*, S. Lee, H. Kim, B. Kim
+        authors: H. Ryu, D. Lee, J. Shin, M. Song*, <b style="color:black">S. Lee</b>, H. Kim, B. Kim
         conference: "International Journal of Hydrogen Energy (SCIE). (2023, In Press)"
       
       - title: "A Hybridization of DNN-based Meta Model and Tabu Search for Single Intersection Traffic Signal Optimization"
         link: "https://meetings.informs.org/wordpress/indianapolis2022/#_gl=1*19o2762*_gcl_au*MTUzOTE4NjE2NS4xNjkwMTk3NDQ2"
-        authors: S. Lee, Y. Shin, B.Kim, D. Choi
+        authors: <b style="color:black">S. Lee</b>, Y. Shin, B.Kim, D. Choi
         conference: "2022 INFORMS Annual Meeting (Indiana Convention Center, Indiana, USA). (Oct 16-19, 2022)"
 
       - title: "Metaheuristic placement algorithm of 3D blocks with arbitrary shapes for shipbuilding industry"
         link: "https://kiie.org/conference/conferenceview.asp?ac=0&code=cc20220301&b_cate=bbc1"
-        authors: S. Lee, B. Kim, Y. Kim, S. Seong
+        authors: <b style="color:black">S. Lee</b>, B. Kim, Y. Kim, S. Seong
         conference: "2022 KIIE/KORMS Spring Joint Conference (Jeju, Korea). (June 1-4, 2022)"
         
       - title: "Decision support system (DSS) for optimization of hydrogen refueling stations deployment and supply chain networks"
         link: "https://kiie.org/conference/conferenceview.asp?ac=0&code=cc20220301&b_cate=bbc1"
-        authors: D. Lee, H. Ryu, J. Shin, S. Lee, H. Kim, B. Kim, M. Song, Y. Yu, S. Kim, H. Lee
+        authors: D. Lee, H. Ryu, J. Shin, <b style="color:black">S. Lee</b>, H. Kim, B. Kim, M. Song, Y. Yu, S. Kim, H. Lee
         conference: "2022 KIIE/KORMS Spring Joint Conference (Jeju, Korea). (June 1-4, 2022)"
 
       - title: "Optimization of hydrogen refueling stations deployment and supply chain networks: current status and research suggestions"
         link: "https://doi.org/10.7232/JKIIE.2022.48.2.211"
-        authors: H. Ryu, B. Kim*, M. Song, H. Kim, D. Lee, S. Lee, J. Shin, Y.-D. Yoo, S. K., H. Lee
+        authors: H. Ryu, B. Kim*, M. Song, H. Kim, D. Lee, <b style="color:black">S. Lee</b>, J. Shin, Y.-D. Yoo, S. K., H. Lee
         conference: "Journal of the Korean Institute of Industrial Engineers, 48(2), 211-226. (April, 2022)"
 
       - title: "Hydrogen refueling stations deployment plan for hydrogen mobility"
         link: "https://kiie.org/conference/conferenceview.asp?ac=0&code=cc20210201&b_cate=bbc1"
-        authors: H.Kim, H. Ryu, M. Eom, J. Shin, S. Lee, D. Lee, B. Kim, M. Song, Y. Yu, S. Kim, H. Lee
+        authors: H.Kim, H. Ryu, M. Eom, J. Shin, <b style="color:black">S. Lee</b>, D. Lee, B. Kim, M. Song, Y. Yu, S. Kim, H. Lee
         conference: "2021 KIIE/KORMS Joint Conference (jeju). (June 2-4, 2021)"
 
       - title: "Intelligent Intersection Traffic Signal Control Research 2: Reinforcement Learning based Optimization Approach"
         link: "https://kiie.org/conference/conferenceview.asp?ac=0&code=cc20200501&b_cate=bbc1"
-        authors: H. Park, S. Lee, H. Ko, Y. Shin, D. Choi, B. Kim, D. Kim
+        authors: H. Park, <b style="color:black">S. Lee</b>, H. Ko, Y. Shin, D. Choi, B. Kim, D. Kim
         conference: "2020 Fall Conference of KIIE(Seoul National University of Science & Technology, Seoul). (Nov 13, 2020)"
 
       - title: "Intelligent Intersection Traffic Signal Control Research 1: Simulation, Metaheuristic, and Deep Neural Network based Optimization Approach"
         link: "https://kiie.org/conference/conferenceview.asp?ac=0&code=cc20200501&b_cate=bbc1"
-        authors: S. Lee, Y. Shin, M. Eom, H. Ko, H. Park, B. Kim, D. Choi, D. Kim
+        authors: <b style="color:black">S. Lee</b>, Y. Shin, M. Eom, H. Ko, H. Park, B. Kim, D. Choi, D. Kim
         conference: "2020 Fall Conference of KIIE(Seoul National University of Science & Technology, Seoul). (Nov 13, 2020)"
 
 skills:
