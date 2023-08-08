@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: sylee1509@postech.ac.kr
-    phone: 010 8181 6283
+    phone: +82 10 8181 6283
     timezone: South Korea/Seoul Timezone
     citizenship:
     website: logistics.postech.ac.kr
@@ -86,31 +86,24 @@ projects:
     intro: >
     assignments:
       - title: Develop World-best AIM(AI+Matheuristics) based Routing Algorithms for Very Large Scale Waste Collection Problems
-        link: "#"
         tagline: "National Research Foundation of Korea (NRF). (2022 - Present)"
       
       - title: Development of Intelligent Traffic Signal Control Algorithm for Multi Intersections (3rd  Stage)
-        link: "#"
         tagline: "ETRI. (2023 - Present)"
      
       - title: Development of Intelligent Traffic Signal Control Algorithm for Multi Intersections
-        link: "#"
         tagline: "ETRI. (2021 - 2021)"
         
       - title: Development of an optimal hydrogen supply chain model for hydrogen production facilities and refueling stations
-        link: "#"
         tagline: "KETEP. (2020 - 2022)"
         
       - title: Development of Intelligent Traffic Signal Control Algorithm
-        link: "#"
         tagline: "ETRI. (2020 - 2020)"
 
       - title: Development of spatial arrangement algorithm of arbitrary 2D polygon and 3D block shape
-        link: "#"
         tagline: "Korea Shipbuilding & Offshore Engineering Co. (2020 - 2021)"
         
       - title: Traffic Signal Optimization and Autonomous Vehicle Traffic Control for Smart Intersection 
-        link: "#hook"
         tagline: "National Research Foundation of Korea (NRF). (2019 - 2022)"
 
 
@@ -120,11 +113,9 @@ oss:
 
     contributions:
       - title: (Patent) Method of Optimal Planning of Hydrogen Supply Chain Network with Additional On-site Hydrogen Refueling Stations 
-        link: "#"
         tagline: "No: 10-2022-0125367 (2022.09.30)
         
       - title: (Software Program) Decision Support System for Hydrogen Supply Chain Management 
-        link: "#"
         tagline: "No: C-2022-052519 (2022.12.12)"
 
 
