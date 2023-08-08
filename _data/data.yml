@@ -164,7 +164,7 @@ publications:
     intro: |
     papers:
       - title: "Site and Capacity Selection for On-Site Production Facilities in a Nationwide Hydrogen Supply Chain Deployment Plan"
-        authors: S. Lee, H. Kim, B. Kim*, M. Song, D. Lee, H. Ryu
+        authors: <b>S. Lee</b>, H. Kim, B. Kim*, M. Song, D. Lee, H. Ryu
         conference: "(Working Paper, International Journal of Hydrogen Energy under 1st revision)"
 
       - title: "A Simulation Optimization Framework for Traffic Signal Control Problem Using a DNN-based Metamodel"
@@ -239,4 +239,4 @@ skills:
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Copyright © 2023 Seungyeop Lee
