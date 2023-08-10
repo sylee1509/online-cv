@@ -200,6 +200,16 @@ publications:
         authors: H. Ryu, B. Kim*, M. Song, H. Kim, D. Lee, <b style="color:black">S. Lee</b>, J. Shin, Y.-D. Yoo, S. K., H. Lee
         conference: "Journal of the Korean Institute of Industrial Engineers, 48(2), 211-226. (April, 2022)"
 
+      - title: "Intelligent Intersection Traffic Signal Control Research 2: Reinforcement Learning-based Multi Intersection Traffic Signal Optimization"
+        link: "https://kiie.org/Conference/ConferenceView.asp?AC=0&CODE=CC20210701&B_CATE=BBC1"
+        authors: H.Park, <b style="color:black">S. Lee</b>, Y.Shin, D.Choi, B.Kim, J.Lee
+        conference: "2021 Fall Conference of KIIE (Dongguk University Seoul)"
+
+      - title: "Intelligent Intersection Traffic Signal Control Research 1: Metaheuristic-based Multi Intersection Traffic Signal Optimization"
+        link: "https://kiie.org/Conference/ConferenceView.asp?AC=0&CODE=CC20210701&B_CATE=BBC1"
+        authors: <b style="color:black">S. Lee</b>, H.Park, Y.Shin, B.Kim, D.Choi, J.Lee
+        conference: "2021 Fall Conference of KIIE (Dongguk University Seoul)"
+      
       - title: "Hydrogen refueling stations deployment plan for hydrogen mobility"
         link: "https://kiie.org/conference/conferenceview.asp?ac=0&code=cc20210201&b_cate=bbc1"
         authors: H.Kim, H. Ryu, M. Eom, J. Shin, <b style="color:black">S. Lee</b>, D. Lee, B. Kim, M. Song, Y. Yu, S. Kim, H. Lee
