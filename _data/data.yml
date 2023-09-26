@@ -164,10 +164,6 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: "Site and Capacity Selection for On-Site Production Facilities in a Nationwide Hydrogen Supply Chain Deployment Plan"
-        authors: <b style="color:black">S. Lee</b>, H. Kim, B. Kim*, M. Song, D. Lee, H. Ryu
-        conference: "(Working Paper, International Journal of Hydrogen Energy accepted)"
-
       - title: "A Simulation Optimization Framework for Traffic Signal Control Problem Using a DNN-based Metamodel"
         authors: <b style="color:black">S. Lee</b>, Y. Shin, D. Choi*, B. Kim
         conference: "(Working Paper, IEEE Transactions on Vehicular Technology submitted)"
@@ -175,6 +171,10 @@ publications:
       - title: "Two-Stage Algorithm for Traffic Signal Optimization and Web Service Ssytem Development"
         authors: <b style="color:black">S. Lee</b>, M. Eom, B. Kim*
         conference: "(Working Paper, Journal of Intelligent Transportation Systems submitted)"
+
+      - title: "Site and Capacity Selection for On-Site Production Facilities in a Nationwide Hydrogen Supply Chain Deployment Plan"
+        authors: <b style="color:black">S. Lee</b>, H. Kim, B. Kim*, M. Song, D. Lee, H. Ryu
+        conference: "International Journal of Hydrogen Energy (SCIE). (2023, Accepted)"
         
       - title: "A web-based decision support system (DSS) for hydrogen refueling station location and supply chain optimization"
         link: "https://doi.org/10.1016/j.ijhydene.2023.06.064"
