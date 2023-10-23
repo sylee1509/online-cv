@@ -173,8 +173,9 @@ publications:
         conference: "(Working Paper, Journal of Intelligent Transportation Systems submitted)"
 
       - title: "Site and Capacity Selection for On-Site Production Facilities in a Nationwide Hydrogen Supply Chain Deployment Plan"
+        link: "https://doi.org/10.1016/j.ijhydene.2023.09.263"
         authors: <b style="color:black">S. Lee</b>, H. Kim, B. Kim*, M. Song, D. Lee, H. Ryu
-        conference: "International Journal of Hydrogen Energy (SCIE). (2023, Accepted)"
+        conference: "International Journal of Hydrogen Energy (SCIE). (2023, In Press)"
         
       - title: "A web-based decision support system (DSS) for hydrogen refueling station location and supply chain optimization"
         link: "https://doi.org/10.1016/j.ijhydene.2023.06.064"
