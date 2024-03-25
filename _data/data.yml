@@ -166,11 +166,11 @@ publications:
     papers:
       - title: "A Simulation Optimization Framework for Traffic Signal Control Problem Using a DNN-based Metamodel"
         authors: <b style="color:black">S. Lee</b>, Y. Shin, D. Choi*, B. Kim
-        conference: "(Working Paper, IEEE Transactions on Vehicular Technology under 1st revision)"
+        conference: "(Working Paper, IEEE Transactions on Vehicular Technology under 2nd review)"
 
       - title: "Two-Stage Algorithm for Traffic Signal Optimization and Web Service Ssytem Development"
         authors: <b style="color:black">S. Lee</b>, M. Eom, B. Kim*
-        conference: "(Working Paper, Journal of Intelligent Transportation Systems under 1st revision)"
+        conference: "(Working Paper, IET Intelligent Transport Systems under 1st review)"
 
       - title: "Site and Capacity Selection for On-Site Production Facilities in a Nationwide Hydrogen Supply Chain Deployment Plan"
         link: "https://doi.org/10.1016/j.ijhydene.2023.09.263"
