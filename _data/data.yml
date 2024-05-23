@@ -137,6 +137,10 @@ experiences:
         details: |
           Managed a session 'The 4th Industrial Revolution/Industrial AI (6)'.
 
+      - role: Integer Programming and Combinatorial Optimization (IPCO) 2021 Summer School
+        time: May 19-21, 2021
+        company: Georgia Institute of Technology, Atlanta, GA, USA (online)
+
       - role: MIT Professional Education Short Programs
         time: August 3-7, 2020
         company: Transportation Networks and Smart Mobility - Methods and Solutions (Live virtual)
@@ -170,7 +174,7 @@ publications:
 
       - title: "Two-Stage Algorithm for Traffic Signal Optimization and Web Service Ssytem Development"
         authors: <b style="color:black">S. Lee</b>, M. Eom, B. Kim*
-        conference: "(Working Paper, IET Intelligent Transport Systems under 1st review)"
+        conference: "(Working Paper, IET Intelligent Transport Systems under 2nd revision)"
 
       - title: "Site and Capacity Selection for On-Site Production Facilities in a Nationwide Hydrogen Supply Chain Deployment Plan"
         link: "https://doi.org/10.1016/j.ijhydene.2023.09.263"
@@ -181,7 +185,12 @@ publications:
         link: "https://doi.org/10.1016/j.ijhydene.2023.06.064"
         authors: H. Ryu, D. Lee, J. Shin, M. Song*, <b style="color:black">S. Lee</b>, H. Kim, B. Kim
         conference: "International Journal of Hydrogen Energy (SCIE). (2023)"
-      
+
+      - title: "Comparison of traffic signal synchronization in multi-intersections. 2024 Spring Joint of KIIE/KORMS"
+        link: "https://kiie.org/Conference/ConferenceView.asp?AC=0&CODE=CC20230701&B_CATE=BBC1"
+        authors: J. Kim, J. Na, H. Kim, <b style="color:black">S. Lee</b>, B. Kim
+        conference: "2024 Spring Joint of KIIE/KORMS (Yeosu Expo)"
+
       - title: "A Hybridization of DNN-based Meta Model and Tabu Search for Single Intersection Traffic Signal Optimization"
         link: "https://meetings.informs.org/wordpress/indianapolis2022/#_gl=1*19o2762*_gcl_au*MTUzOTE4NjE2NS4xNjkwMTk3NDQ2"
         authors: <b style="color:black">S. Lee</b>, Y. Shin, B.Kim, D. Choi
