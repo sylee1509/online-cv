@@ -113,11 +113,27 @@ oss:
     intro: >
 
     contributions:
+      - title: POSTECHIAN Fellowship
+        tagline: "POSTECH (Spring 2024)"
+        
+      - title: Encouragement Prize, 2023 New Industry Intellectual Property Idea Contest 
+        tagline: "POSTECH New Industry Intellectual Property Convergence Talent Development Project (2024.02.05)"
+        
+      - title: Second Prize, 2022 New Industry Intellectual Property Idea Contest 
+        tagline: "POSTECH New Industry Intellectual Property Convergence Talent Development Project (2023.02.03)"
+
+
+awards:
+    title: Awards & Honors
+    intro: >
+
+    contributions:
       - title: (Patent) Method of Optimal Planning of Hydrogen Supply Chain Network with Additional On-site Hydrogen Refueling Stations 
         tagline: "No: 10-2022-0125367 (2022.09.30)"
         
       - title: (Software Program) Decision Support System for Hydrogen Supply Chain Management 
         tagline: "No: C-2022-052519 (2022.12.12)"
+
 
 
 experiences:
@@ -137,7 +153,7 @@ experiences:
         details: |
           Managed a session 'The 4th Industrial Revolution/Industrial AI (6)'.
 
-      - role: Integer Programming and Combinatorial Optimization (IPCO) 2021 Summer School
+      - role: Integer Programming and Combinatorial Optimization (IPCO) <br> 2021 Summer School
         time: May 19-21, 2021
         company: Georgia Institute of Technology, Atlanta, GA, USA (online)
 
