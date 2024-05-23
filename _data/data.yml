@@ -108,8 +108,8 @@ projects:
         tagline: "National Research Foundation of Korea (NRF). (2019 - 2022)"
 
 
-oss:
-    title: Patents & Software Program
+awards:
+    title: Awards & Honors
     intro: >
 
     contributions:
@@ -123,8 +123,8 @@ oss:
         tagline: "POSTECH New Industry Intellectual Property Convergence Talent Development Project (2023.02.03)"
 
 
-awards:
-    title: Awards & Honors
+oss:
+    title: Patents & Software Program
     intro: >
 
     contributions:
@@ -153,7 +153,7 @@ experiences:
         details: |
           Managed a session 'The 4th Industrial Revolution/Industrial AI (6)'.
 
-      - role: Integer Programming and Combinatorial Optimization (IPCO) <br> 2021 Summer School
+      - role: <p>Integer Programming and Combinatorial Optimization (IPCO)</p> <p>2021 Summer School</p>
         time: May 19-21, 2021
         company: Georgia Institute of Technology, Atlanta, GA, USA (online)
 
