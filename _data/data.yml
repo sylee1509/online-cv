@@ -139,6 +139,12 @@ oss:
 experiences:
     title: Experiences
     info:
+      - role: Research Intern
+        time: June 2024 - August 2024
+        company: Distributed Control Laboratory, Purdue University
+        details: |
+          Researched on the orbital vehicle routing problem under the guidance of <a href="https://engineering.purdue.edu/DClab">Prof. Seokcheon Lee</a>.
+      
       - role: Teaching Assistant
         time: Fall 2022
         company: Information System Technology
@@ -190,7 +196,7 @@ publications:
 
       - title: "Two-Stage Algorithm for Traffic Signal Optimization and Web Service Ssytem Development"
         authors: <b style="color:black">S. Lee</b>, M. Eom, B. Kim*
-        conference: "(Working Paper, IET Intelligent Transport Systems under 2nd revision)"
+        conference: "(Working Paper, IET Intelligent Transport Systems accepted)"
 
       - title: "Site and Capacity Selection for On-Site Production Facilities in a Nationwide Hydrogen Supply Chain Deployment Plan"
         link: "https://doi.org/10.1016/j.ijhydene.2023.09.263"
