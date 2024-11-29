@@ -139,9 +139,9 @@ oss:
 experiences:
     title: Experiences
     info:
-      - role: Research Intern
+      - role: Visiting Scholar
         time: June 2024 - August 2024
-        company: Distributed Control Laboratory, Purdue University
+        company: Distributed Control Laboratory, School of Industrial Engineering, Purdue University
         details: |
           Researched on the orbital vehicle routing problem under the guidance of <a href="https://engineering.purdue.edu/DClab">Prof. Seokcheon Lee</a>.
       
@@ -192,11 +192,12 @@ publications:
     papers:
       - title: "A Simulation Optimization Framework for Traffic Signal Control Problem Using a DNN-based Metamodel"
         authors: <b style="color:black">S. Lee</b>, Y. Shin, D. Choi*, B. Kim
-        conference: "(Working Paper, IEEE Transactions on Vehicular Technology under 2nd review)"
+        conference: "(Working Paper, IEEE Transactions on Vehicular Technology under 3rd review)"
 
       - title: "Two-Stage Algorithm for Traffic Signal Optimization and Web Service Ssytem Development"
+        link: "https://doi.org/10.1049/itr2.12542"
         authors: <b style="color:black">S. Lee</b>, M. Eom, B. Kim*
-        conference: "(Working Paper, IET Intelligent Transport Systems accepted)"
+        conference: "IET Intelligent Transport Systems (SCIE). (2024)"
 
       - title: "Site and Capacity Selection for On-Site Production Facilities in a Nationwide Hydrogen Supply Chain Deployment Plan"
         link: "https://doi.org/10.1016/j.ijhydene.2023.09.263"
@@ -208,10 +209,30 @@ publications:
         authors: H. Ryu, D. Lee, J. Shin, M. Song*, <b style="color:black">S. Lee</b>, H. Kim, B. Kim
         conference: "International Journal of Hydrogen Energy (SCIE). (2023)"
 
-      - title: "Comparison of traffic signal synchronization in multi-intersections. 2024 Spring Joint of KIIE/KORMS"
-        link: "https://kiie.org/Conference/ConferenceView.asp?AC=0&CODE=CC20230701&B_CATE=BBC1"
+      - title: "Optimization of hydrogen refueling stations deployment and supply chain networks: current status and research suggestions"
+        link: "https://doi.org/10.7232/JKIIE.2022.48.2.211"
+        authors: H. Ryu, B. Kim*, M. Song, H. Kim, D. Lee, <b style="color:black">S. Lee</b>, J. Shin, Y. Yoo, S. Kim, H. Lee
+        conference: "Journal of the Korean Institute of Industrial Engineers (KCI). (2022)"
+
+      - title: "Waste Collection Problem with Turn Penalty, Balanced Clustering, and Visual Attractiveness"
+        link: "https://meetings.informs.org/wordpress/seattle2024/"
+        authors: <b style="color:black">S. Lee</b>, B. Kim
+        conference: "2024 INFORMS Annual Meeting (Seattle Convention Center, Washington, USA). (Oct 20-23, 2024)"
+
+      - title: "Comparison of traffic signal synchronization in multi-intersections"
+        link: "https://kiie.org/Conference/ConferenceView.asp?AC=0&CODE=CC20240101&B_CATE=BBC1"
         authors: J. Kim, J. Na, H. Kim, <b style="color:black">S. Lee</b>, B. Kim
         conference: "2024 Spring Joint of KIIE/KORMS (Yeosu Expo)"
+
+      - title: "Comparison of Traffic Signal Optimization Algorithms at Multiple Intersections"
+        link: "https://kiie.org/Conference/ConferenceView.asp?AC=0&CODE=CC20230701&B_CATE=BBC1"
+        authors: J. Kim, H. Kim, <b style="color:black">S. Lee</b>, B. Kim, H. Park, D. Choi
+        conference: "2023 Fall Conference of KIIE (UNIST, Ulsan). (Nov 2-3, 2023)"
+
+      - title: "A Nationwide Hydrogen Supply Chain Deployment Plan for a Short-term Hydrogen Supply Shortage"
+        link: "https://meetings.informs.org/wordpress/phoenix2023/?_gl=1%2A1ybqz4y%2A_gcl_au%2AMTg4MjQwNjc5LjE3MzAwODU3NDE."
+        authors: <b style="color:black">S. Lee</b>, H. Kim, B. Kim
+        conference: "2023 INFORMS Annual Meeting (Pheonix Convention Center, Arizona, USA). (Oct 15-18, 2023)"
 
       - title: "A Hybridization of DNN-based Meta Model and Tabu Search for Single Intersection Traffic Signal Optimization"
         link: "https://meetings.informs.org/wordpress/indianapolis2022/#_gl=1*19o2762*_gcl_au*MTUzOTE4NjE2NS4xNjkwMTk3NDQ2"
@@ -262,13 +283,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 98%
-
       - name: C++
         level: 98%
 
+      - name: Python
+        level: 98%
+
       - name: CPLEX
+        level: 98%
+
+      - name: GUROBI
         level: 98%
 
       - name: SUMO
