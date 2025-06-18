@@ -190,6 +190,10 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: "Graph Partitioning-based Matheuristic for Residential Waste Collection Problem with Visual Attractiveness and Turn Penalty"
+        authors: <b style="color:black">S. Lee</b>, S. Han, B. Kim*
+        conference: "(Working Paper, European Journal of Operational Research submitted)"
+      
       - title: "A Simulation Optimization Framework for Traffic Signal Control Problem Using a DNN-based Metamodel"
         authors: <b style="color:black">S. Lee</b>, Y. Shin, D. Choi*, B. Kim
         conference: "(Working Paper, IEEE Transactions on Vehicular Technology under 3rd review)"
@@ -214,6 +218,21 @@ publications:
         authors: H. Ryu, B. Kim*, M. Song, H. Kim, D. Lee, <b style="color:black">S. Lee</b>, J. Shin, Y. Yoo, S. Kim, H. Lee
         conference: "Journal of the Korean Institute of Industrial Engineers (KCI). (2022)"
 
+      - title: "Why Not Use Street Network Data for Visually Attractive Waste Collection Routes?"
+        link: "https://euro2025leeds.uk/"
+        authors: B. Kim, <b style="color:black">S. Lee</b>, S. Han
+        conference: "EURO 2025 (University of Leeds, UK). (June 22-25, 2025)"
+      
+      - title: "Single-Vehicle Residential Waste Collection Problem with Turn Penalty and Visual Attractiveness"
+        link: "https://tsl2025.kaist.ac.kr/"
+        authors: <b style="color:black">S. Lee</b>, S. Han, B. Kim
+        conference: "INFORMS TSL Workshop 2025 (Seoul, Korea). (May 19-21, 2025)"
+
+      - title: "Multi-Intersection Traffic Signal Coordination Model Reflecting Travel Speed"
+        link: "https://kiie.org/Conference/ConferenceView.asp?AC=0&CODE=CC20240601&B_CATE=BBC1"
+        authors: J. Na, H. Kim, H. Kim, <b style="color:black">S. Lee</b>, B. Kim
+        conference: "2024 Fall Conference of KIIE (ST Center, Seoul). (October 24-25, 2024)"
+      
       - title: "Waste Collection Problem with Turn Penalty, Balanced Clustering, and Visual Attractiveness"
         link: "https://meetings.informs.org/wordpress/seattle2024/"
         authors: <b style="color:black">S. Lee</b>, B. Kim
